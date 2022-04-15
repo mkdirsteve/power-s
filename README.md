@@ -1,10 +1,4 @@
-- 👋 Hello 2 World 👋
-
-I’m @power-s cuase they dont let you change your user name once you made it
- cera 2020
- 
- 
-TABs>>>>>>>spaces
+- 👋 Hello 2 World 👋 
 
 - 📫 How to reach me 📫 here is fine.
 
